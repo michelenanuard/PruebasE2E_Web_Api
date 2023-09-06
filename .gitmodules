@@ -1,0 +1,6 @@
+[submodule "petstoreapitesting"]
+	path = petstoreapitesting
+	url = https://github.com/michelenanuard/petstoreapitesting
+[submodule "saucedemotesting"]
+	path = saucedemotesting
+	url = https://github.com/michelenanuard/saucedemotesting
